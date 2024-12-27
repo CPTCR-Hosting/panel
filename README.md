@@ -46,7 +46,7 @@ Redprint, an unofficial blueprint script, now allows for hassle-free installatio
 - [Editable Startup Commands*](https://builtbybit.com/resources/editable-startup-commands-blueprint.52954/) 1.20$
 - [Minecraft Plugins Installer*](https://builtbybit.com/resources/mc-plugins-installer-for-blueprint.52526/) 8.99$
 - [Reverse Proxy Tool*](https://builtbybit.com/resources/reverse-proxy-for-blueprint.47759/?ref=479000) 16.99$
-- [Cookies*]([https://builtbybit.com/resources/cookies.38647/](https://builtbybit.com/resources/cookies.38647/?ref=479000)) 2.49$
+- [Cookies*](https://builtbybit.com/resources/cookies.38647/](https://builtbybit.com/resources/cookies.38647/?ref=479000/ ) 2.49$
 - [Subdomain Manager*](https://builtbybit.com/resources/subdomain-manager-for-pterodactyl.42401/?ref=479000) 9.99$
 - [Nebula Theme (Client Panel)*](https://builtbybit.com/resources/nebula.32442/?ref=479000) 12.49$
 - [Slate Theme (Admin Panel)*](https://builtbybit.com/resources/slate.36101/?ref=479000) 8.49$
